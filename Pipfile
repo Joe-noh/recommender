@@ -8,9 +8,14 @@ name = "pypi"
 [packages]
 
 django = "*"
+numpy = "*"
+scikit-surprise = "*"
 
 
 [dev-packages]
 
+
+
 [requires]
+
 python_version = "3.7.1"
